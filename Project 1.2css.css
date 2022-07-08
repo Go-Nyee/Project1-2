@@ -44,8 +44,8 @@
      font-size:120%
 }
 .caption {
-    width: 150px;
-    height: 180px;
+    width: 140px;
+     height: 150px;
     margin: 30px;
     border: 3px solid black;
     border-radius: 10px;
@@ -81,8 +81,8 @@
     }
   .star {
      background: black;
-     width: 151px;
-     height: 167px;
+     width: 140px;
+     height: 150px;
      margin: 30px;
      border: 3px solid black;
      border-radius: 10px;
@@ -91,7 +91,7 @@
      transform: skew(-10deg);
      transition: transform .3s, background-color .6s;
      font-family: ttcrownmychewr;
-     font-size: 110%;
+     font-size: 105%;
      position: relative;
      padding: 0px;
             }
@@ -101,12 +101,12 @@
 }
 .star:hover .caption{
     opacity: 1;
-    transform: translateX(-32px)  translateY(-232px);
+    transform: translateX(-32px)  translateY(-197px);
 }
  .star .image {
-     width: 120%;
-     height: 100%;
-     transform: translateX(-16px);
+     width: 115%;
+     height: 90%;
+     transform: translateX(-11px);
      background-position: center;
      background-repeat: no-repeat;
      background-size: 210px;
