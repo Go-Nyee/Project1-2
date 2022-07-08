@@ -45,7 +45,7 @@
 }
 .caption {
     width: 140px;
-     height: 150px;
+     height: 155px;
     margin: 30px;
     border: 3px solid black;
     border-radius: 10px;
@@ -101,7 +101,7 @@
 }
 .star:hover .caption{
     opacity: 1;
-    transform: translateX(-32px)  translateY(-197px);
+    transform: translateX(-32px)  translateY(-192px);
 }
  .star .image {
      width: 115%;
